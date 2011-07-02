@@ -1,4 +1,4 @@
-package net.zorq;
+package net.zorq.wildlifecensus;
 
 /**
  * Hello world!

@@ -1,4 +1,4 @@
-package net.zorq;
+package net.zorq.wildlifecensus;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
